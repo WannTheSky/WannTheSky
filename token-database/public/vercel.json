@@ -1,7 +1,0 @@
-{
-  "routes": [
-    {"src":"/raw","dest":"/public/raw"},
-    {"src":"/api/(.*)","dest":"/api/$1"},
-    {"src":"/(.*)","dest":"/public/$1"}
-  ]
-}
